@@ -1,0 +1,2 @@
+module LolaHelper
+end
